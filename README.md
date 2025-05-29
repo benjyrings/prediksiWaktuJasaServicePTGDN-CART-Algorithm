@@ -1,1 +1,5 @@
 # prediksiWaktuJasaServicePTGDN-CART-Algorithm
+
+Abstract
+
+PT. Gobel Dharma Nusantara (GDN), a subsidiary of the Gobel Group providing service for Panasonic products, handles an average of 8,000 transactions per month. A prediction system is therefore necessary to help analyze this data effectively. This research aims to build a time prediction system using the Classification and Regression Tree (CART) algorithm to predict service patterns based on historical data. The research utilizes five months of transaction data for training and testing. The data is processed using a supervised learning-based Machine Learning approach. The model is developed and evaluated using a Confusion Matrix and Ten-fold cross validation to ensure accuracy and model formation capability. The results show that the CART algorithm successfully built a prediction model with an average accuracy of 87.65% in Ten-fold cross validation, demonstrating stable performance and no overfitting. The implementation of this system is expected to help PT. Gobel Dharma Nusantara improve service quality, accelerate service response times, and support data-driven decision-making.
